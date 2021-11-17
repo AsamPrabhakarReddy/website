@@ -1,0 +1,61 @@
+<html>
+ <head>
+     <title>COLD STORAGES SLOT BOOKING</title>
+     <style>
+         body{
+             border: 1px solid red;
+         }
+         h1{
+             text-align: center;
+           background-color: orange;
+             font-size: 70px;
+             
+             margin-bottom: 2px;
+         }
+         
+       
+         th{
+             background-color:lightblue;
+           
+            font-size: 20px;
+         }
+         footer{
+             font-size: 25px;
+               background-color: yellow;
+         }
+       
+     </style>
+ </head>
+ <BODY>
+         <h1>COLD STORAGES IN RAYALASEEMA </h1>
+         <hr>
+         <div>
+         <marquee scrollamount="50">
+
+            <img src="https://tse1.mm.bing.net/th?id=OIP.iQHx4o8LUM7yMic70j-4vwHaFH&pid=Api&rs=1&c=1&qlt=95&w=162&h=112" height="185px">
+            <img src="https://tse2.mm.bing.net/th?id=OIP.Jp9SMjhdACMtxPiMdQavSgHaEm&pid=Api&P=0&w=247&h=155" height="185px">
+            <img src="https://tse4.mm.bing.net/th?id=OIP.r7RzoN0PXHMbf-z4208lbwHaE6&pid=Api&P=0&w=244&h=162" width="276" height="185px">
+            <img src="https://tse1.mm.bing.net/th?id=OIP.gt2jy0gM-HGMq5JsQp2sagHaCx&pid=Api&P=0&w=408&h=154" width="276" height="185px">
+            <img src="https://tse4.mm.bing.net/th?id=OIP.3VWpBF0OrEttw0E9K0HXMAHaDD&pid=Api&P=0&w=432&h=179" width="276" height="185px">
+            <img src="https://tse2.mm.bing.net/th?id=OIP.uk9QObAxVivhgp4dvH6YmgHaD7&pid=Api&P=0&w=303&h=162" width="276" height="185px">
+            <img src="https://tse2.mm.bing.net/th?id=OIP.uk9QObAxVivhgp4dvH6YmgHaD7&pid=Api&P=0&w=297&h=159" height="185px">
+            <img src="https://tse1.mm.bing.net/th?id=OIP.tmMvB6QfgHBPmW4Fc7nIMgHaE7&pid=Api&P=0&w=255&h=171" width="276" height="185px">
+            <img src="https://tse4.mm.bing.net/th?id=OIP.-jLVbHmzxZ3EOhqnvVYc_AHaFj&pid=Api&P=0&w=241&h=181" width="276" height="185px">
+            <img src="https://tse1.mm.bing.net/th?id=OIP.bxLh7wQAMwXEw4U_nGuw0gHaCx&pid=Api&P=0&w=463&h=174" width="276" height="185px">
+        </marquee>
+    </div>
+    <hr> 
+    <section>
+        <table  border="1PX solid black" cellspacing="0px" cellpadding="20px">
+            <tr><th>Name Of The District</th><th colspan="9" style="text-align:center;">COLD STORAGES</th></tr>
+            <tr><td>ANANTHPUR</td><td>Kanyaka Cold Storage (P) Ltd.,Railway Goods Shed Road,<br>Hindupur <br> <br><br><a href="file:///C:/Users/prabhakar/OneDrive/Desktop/ANANTHPUR/Kanyaka%20cold%20storage.html">Visit Now</a></td><td>Atlantica Cold Storage (P) Ltd Parigi, Hindupur.<br> <br><br><a href="file:///C:/Users/prabhakar/OneDrive/Desktop/ANANTHPUR/ATLANTICA%20COLD%20STORAGE.html">Visit Now</a></td><td>	 Parameswari Cold Storage (P) Ltd.,Railway Goods Shed Road,Hindupur.<br> <br><br><a href="file:///C:/Users/prabhakar/OneDrive/Desktop/ANANTHPUR/parameshwara%20cold%20Storage.html">Visit Now</a></td><td>	Himani <br>Cold Storage <br> Agriculture<br>Market Yard,<br> <br><br><a href="file:///C:/Users/prabhakar/OneDrive/Desktop/ANANTHPUR/Himani%20cold%20storage.html">Visit Now</a></td><td>	Sri Neelakanda<br> cold storage <br>Madakasira  <br> <br><br><a href="file:///C:/Users/prabhakar/OneDrive/Desktop/ANANTHPUR/Sri%20Nelakanta%20cold%20storage.html">Visit Now</a></td><td>Premier Cold Storage<br>Hindupur <br> <br><br><a href="file:///C:/Users/prabhakar/OneDrive/Desktop/ANANTHPUR/primier%20cold%20storage.html">Visit Now</a></td><td>	 Kaveri Cold Storage , Rahamath Nagar ,Hindupur <br> <br><br><a href="file:///C:/Users/prabhakar/OneDrive/Desktop/ANANTHPUR/kaveri%20cold%20storage.html">Visit Now</a></td><td>The DRL Cold Storage Pvt.. Ltd,Near RTC Bus Stand , Parigi <br> <br><br><a href="file:///C:/Users/prabhakar/OneDrive/Desktop/ANANTHPUR/DRL%20Cold%20Storage.html">Visit Now</a></td><td>Bismillah cold storage,sai nagar  <br> <br><br><a href="file:///C:/Users/prabhakar/OneDrive/Desktop/ANANTHPUR/Bismilla%20cold%20storage.html">Visit Now</a></td></tr>
+            <tr><td>CHITTOOR</td><td> Madanapalli Cold Storage (P)Ltd.,<br>Madanapalli.<br> <br><br><a href="file:///C:/Users/prabhakar/OneDrive/Desktop/CHITTOOR/Madanapalli%20cold%20storage.html">Visit Now</a></td><td>	M/s Punganur Cold Storage,Rampalli Village,Punganur.<br> <br><br><a href="file:///C:/Users/prabhakar/OneDrive/Desktop/CHITTOOR/punganur%20cold%20storage.html">Visit Now</a></td><td>M/s Himalaya cold storage,<br>Pungannur,<br>Chottoor Dt.<br> <br><br><a href="file:///C:/Users/prabhakar/OneDrive/Desktop/CHITTOOR/himalaya%20cold%20storage.html">Visit Now</a></td><td>M/s Krishna <br>Storage <br>Punganur,<br> Chittoor<br> <br><br><a href="file:///C:/Users/prabhakar/OneDrive/Desktop/CHITTOOR/krishna%20cold%20storage.html">Visit Now</a></td><td>	Sai Ram <br>cold storage<br>,Madanapalli<br>Chittoor Dt.,<br> <br><br><a href="file:///C:/Users/prabhakar/OneDrive/Desktop/CHITTOOR/sai%20ram%20cold%20storage.html">Visit Now</a></td><td>	M/s Murugan Cold Storage Punganur<br> <br><br><a href="file:///C:/Users/prabhakar/OneDrive/Desktop/CHITTOOR/Murugan%20cold%20storage.html">Visit Now</a></td><td>Vijayavani Cold Storage Plant No. 1 , food Processing Industrial Park,Kuppa<br> <br><br><a href="file:///C:/Users/prabhakar/OneDrive/Desktop/CHITTOOR/vijayawani%20cold%20storage.html">Visit Now</a></td><td>M/s. MKB Cold Storage<br>Punganur,<br> Chittor<br> <br><br><a href="file:///C:/Users/prabhakar/OneDrive/Desktop/CHITTOOR/MKB%20cold%20storage.html">Visit Now</a></td><td>M/s Ready Foods Limited,<br>Vempalli Village, Madanapalli<br> <br><br><a href="file:///C:/Users/prabhakar/OneDrive/Desktop/CHITTOOR/Ready%20food's%20cold%20storage.html">Visit Now</a></td></tr>
+            <tr><td>KURNOOL</td><td>Nandi Cold Storage Pvt. Ltd Nandyal<br> <br><br><a href="file:///C:/Users/prabhakar/OneDrive/Desktop/KURNOOL/Nandi%20cold%20storage.html">Visit Now</a></td><td>Rayalaseema Cold Storage Pvt.. Ltd No 297 & 303 , <BR>Near Telephone<BR> Exch<br> <br><br><a href="file:///C:/Users/prabhakar/OneDrive/Desktop/KURNOOL/rayalaseema%20cold%20storage.html">Visit Now</a></td><td>Hanuman Cold Storage D&P road ,ADONI,OPP Veg Market<br> <br><br><a href="file:///C:/Users/prabhakar/OneDrive/Desktop/KURNOOL/hanuman%20cold%20storage.html">Visit Now</a></td><td>Kaleel shabber<br> cold storage<br>,Karnamaddin colony,<BR>BANAGANA<br>PALLY <br> <br><br><a href="file:///C:/Users/prabhakar/OneDrive/Desktop/KURNOOL/kaleel%20shabber%20cold%20storage.html">Visit Now</a></td><td>Karshkamitra<br> Cold Storage,<br>Gandhi nagar,<br>Kothapeta,<br>Ayyappa Temple<br> <br><br><a href="file:///C:/Users/prabhakar/OneDrive/Desktop/KURNOOL/karshkamitra%20cold%20storage.html">Visit Now</a></td><td> M/S Nandi <br>Cold Storage <br>ALUR <br> <br><br><a href="file:///C:/Users/prabhakar/OneDrive/Desktop/KURNOOL/nandi%20cold%20storage%20alur.html">Visit Now</a></td><td>MS Karshaka Mitra Cold Storage Munagalapadu, KURNOOL Di<br> <br><br><a href="file:///C:/Users/prabhakar/OneDrive/Desktop/KURNOOL/MS%20Karshaka%20Mitra%20Cold%20Storage.html">Visit Now</a></td><td>MS Rabbani cold storage, KURNOOL Dis<br> <br><br><a href="file:///C:/Users/prabhakar/OneDrive/Desktop/KURNOOL/MS%20Rabbani%20cold%20storage.html">Visit Now</a></td><td>Sri venkateshwara <br> Rural Farmers <br> Cold storage<br> Allagadda vill(md)<br> KURNOOL Di<br> <br><br><a href="file:///C:/Users/prabhakar/OneDrive/Desktop/KURNOOL/Sri%20venkateshwara%20cold%20storage.html">Visit Now</a></td></tr>
+            <tr><td>KADAPA</td><td colspan="9" style="text-align: center;">There Are No Cold Storages In Kadapa District</td></tr>
+        </table>
+    </section>
+    
+   
+    
+ </BODY>
+</html>
